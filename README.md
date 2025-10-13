@@ -32,7 +32,3 @@
 
 This mod is based on the **SWBF2 Unlocked Framerate Mod**, which can be found [here](https://www.moddb.com/games/star-wars-battlefront-ii/downloads/increased-framerate-cap).  
 Modifications by **F4B1**. Reach out on Discord: `sf2f4b1`.
-
-## License
-
-This mod is released under [insert license here, if applicable].
