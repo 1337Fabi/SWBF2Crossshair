@@ -1,5 +1,11 @@
 # Star Wars Battlefront II (2005) Crosshair Mod
 
+## Version Compatibility
+
+- **Steam version**: <span style="color:green">Working</span>
+- **GoG version**: <span style="color:orange">In Progress</span>
+- **CD & Other versions**: <span style="color:orange">In Progress</span>
+
 ## Installation Instructions
 
 1. **Locate your SWBF2 installation folder**  
