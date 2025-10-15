@@ -2,9 +2,9 @@
 
 ## Version Compatibility
 
-- **Steam version**: <span style="color:green">Working</span>
-- **GoG version**: <span style="color:orange">In Progress</span>
-- **CD & Other versions**: <span style="color:orange">In Progress</span>
+- **Steam version**: ![#2ECC40](https://placehold.co/15x15/2ECC40/2ECC40.png) `Working`
+- **GoG version**: ![#FFDC00](https://placehold.co/15x15/FFDC00/FFDC00.png) `In Progress`
+- **CD & Other versions**: ![#FFDC00](https://placehold.co/15x15/FFDC00/FFDC00.png) `In Progress`
 
 ## Installation Instructions
 
