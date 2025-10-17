@@ -1,5 +1,7 @@
 # Star Wars Battlefront II (2005) Crosshair Mod
 
+![SWBF2 Crosshair Before and After](https://i.ibb.co/HLBLx1VB/swbf2crosshairbeforeandafter.png)
+
 ## Version Compatibility
 
 - **Steam version**: ![#2ECC40](https://placehold.co/15x15/2ECC40/2ECC40.png) `Working`
